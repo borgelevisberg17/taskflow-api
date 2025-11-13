@@ -1,0 +1,11 @@
+{
+    "name": "taskflow-api",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node app.jd"
+    },
+    "dependencies": {
+        "express": "~4.16.1"
+    }
+}
